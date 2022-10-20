@@ -1,2 +1,2 @@
 # TestG28
-Descripción del pryecto
+Descripción del proyecto
